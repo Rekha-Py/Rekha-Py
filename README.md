@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rekha-Py
+- 👋 Hi, I’m @Rekha.py
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Data Science and Machine Learning
 - 💞️ I’m looking to collaborate with developers
